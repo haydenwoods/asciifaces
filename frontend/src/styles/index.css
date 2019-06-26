@@ -1,0 +1,158 @@
+html {
+	background: #000;
+}
+
+#index {
+	height: 100%;
+	width: 100%;
+}
+
+#index #container {
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+#index #toolbar {
+	height: 60px;
+	width: 100%;
+	position: absolute;
+	bottom: 0; left: 0;
+}
+
+#index #toolbar #nav-bar {
+	height: 100%;
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#index #toolbar #nav-bar:before {
+	content: '';
+	position: absolute;
+	top: 0; left: 0;
+	height: 1px;
+	width: 100%;
+	background: #fff;
+	border-bottom: 3px solid #272727;
+}
+
+#index #toolbar #nav-bar .nav-item {
+	display: inline-block;
+	float: left;
+
+	min-width: 40px;
+	padding: 0px 0px 0px 20px;
+
+	font-size: 24px;
+	line-height: 60px;
+	font-weight: 200;
+	text-shadow: 1px 1px 0px rgba(255,255,255,0.2);
+	font-family: 'Arial', sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+	opacity: 0.8;
+
+	user-select: none;
+}
+.nav-item.button {
+	cursor: pointer;
+	padding: 0px 20px 0px 20px;
+}
+#index #toolbar #nav-bar .nav-item.button:hover {
+	opacity: 1;
+	text-decoration: underline;
+}
+#index #toolbar #nav-bar .nav-item.right {
+	float: right !important;
+}
+
+
+#index #toolbar #nav-bar #nav-search {
+	display: inline-block;
+	float: right;
+
+	height: calc(100% - 20px);
+	width: calc(250px - 20px);
+
+	margin: 0px 20px 0px 20px;
+	padding: 10px 0px 10px 0px;
+}
+
+#index #toolbar #nav-bar #nav-search input {
+	width: 100%;
+	height: 40px;
+
+	padding: 0px 10px 0px 10px;
+
+	background: none;
+	border: 1px solid #fff;
+	color: #fff;
+	font-size: 24px;
+	opacity: 0.8;
+}
+
+#index #toolbar #nav-bar #nav-search input:focus {
+	outline: none;
+}
+#index #toolbar #nav-bar #nav-search input:placeholder {
+	color: #fff;
+}
+
+#index #loading {
+	display: table; 
+	height: 100%;
+	width: 100%; 
+	overflow: hidden;
+
+	font-family: sans-serif;
+	color: #fff;
+	text-shadow: 5px 5px 0px rgba(255,255,255,0.15);
+	text-align: center;
+	font-size: 48px;
+}
+
+#index #loading #inner-loading {
+	display: table-cell; 
+	vertical-align: middle;
+}
+
+#index #container #facetext {
+	display: table;
+	width: 100%;
+	height: calc(100% - 60px);
+	overflow: hidden;
+	position: absolute;
+	top: 0; left: 0;
+}
+
+#index #container #facetext #row {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#index #container #facetext #row #column {
+	display: table;
+	margin: 0 auto;
+}
+
+#index #container #facetext #row #column #text {
+	font-family: sans-serif;
+	color: #fff;
+	user-select: none;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 1px 1px 0px rgba(255,255,255,0.15);
+	display: inline;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+

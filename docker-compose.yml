@@ -1,0 +1,25 @@
+version: "3"
+services:
+  frontend:
+    build: ./frontend
+    command: npm start
+    volumes: 
+      - ./frontend:/usr/app/
+      - /usr/app/node_modules
+    ports:
+      - 3000:3000
+  backend:
+    build: ./backend
+    command: nodemon server.js
+    volumes: 
+      - ./backend:/usr/app/
+      - /usr/app/node_modules
+    ports:
+      - 3001:3001
+  # database:
+  #   build: ./database
+  #   command: 
+  #   volumes:
+  #     - ./database
+  #   ports:
+  #     - 3002:3002

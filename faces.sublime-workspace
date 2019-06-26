@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fight",
+				"fighterJetArray"
+			],
+			[
+				"submar",
+				"submarineArray"
+			],
+			[
+				"sub",
+				"submarineArray"
+			],
+			[
+				"subm",
+				"submarineArray"
+			],
+			[
+				"subma",
+				"submarineArray"
+			],
+			[
+				"Buffered",
+				"BufferedWriter"
+			],
+			[
+				"in",
+				"inputFileName"
+			],
+			[
+				"line",
+				"lineArray"
+			],
+			[
+				"inu",
+				"inputString"
+			],
+			[
+				"ship",
+				"shipStorage"
+			],
+			[
+				"input",
+				"inputString"
+			],
+			[
+				"title",
+				"menuTitle"
+			],
+			[
+				"FAQ",
+				"FAQListItem"
+			],
+			[
+				"F",
+				"FAQListItem"
+			],
+			[
+				"n",
+				"tabular-nums\tfont-variant-numeric"
+			],
+			[
+				"cur",
+				"curDay"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"to",
+				"timeToSeconds"
+			],
+			[
+				"curT",
+				"curTimeStr"
+			],
+			[
+				"lowe",
+				"lowestDifIndex"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"day",
+				"days"
+			],
+			[
+				"createRo",
+				"createRound"
+			],
+			[
+				"small",
+				"smalls"
+			],
+			[
+				"bigs",
+				"bigsAmount"
+			],
+			[
+				"smallS",
+				"smallsAmount"
+			],
+			[
+				"toggle",
+				"toggleGameScreen"
+			],
+			[
+				"min",
+				"minimum"
+			],
+			[
+				"sessio",
+				"sessionid"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"width",
+				"widthDif"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"sideb",
+				"sidebar-width"
+			],
+			[
+				"sec",
+				"secondary-accent-color"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"border-rad",
+				"border-radius\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"night",
+				"nightMode"
+			],
+			[
+				"set",
+				"setFilter"
+			],
+			[
+				"handle",
+				"handleFilters"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"fil",
+				"filterStatus"
+			],
+			[
+				"sea",
+				"searchResults"
+			],
+			[
+				"filter",
+				"filtername"
+			],
+			[
+				"adv",
+				"advancedSearch"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"search",
+				"search-results"
+			],
+			[
+				"advanc",
+				"advanced-menu"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"pay",
+				"payloadName"
+			],
+			[
+				"hex",
+				"hexToRgbA"
+			],
+			[
+				"land",
+				"landIntent"
+			],
+			[
+				"lan",
+				"landSuccess"
+			],
+			[
+				"youtube",
+				"youtubeLogo"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"rocke",
+				"rocketName"
+			],
+			[
+				"pal",
+				"payloadMass"
+			],
+			[
+				"lad",
+				"landSuccess"
+			],
+			[
+				"payl",
+				"payloadMass"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"fle",
+				"flex-start\talign-content"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"flx",
+				"flex-direction\tproperty"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"get",
+				"getSum"
+			],
+			[
+				"rot",
+				"rotateZ()\ttransform"
+			],
+			[
+				"text",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"inn",
+				"innerClass"
+			],
+			[
+				"player",
+				"playerItem"
+			],
+			[
+				"temp",
+				"tempUsers"
+			],
+			[
+				"is",
+				"isPlaying"
+			],
+			[
+				"menu",
+				"menu-container"
+			],
+			[
+				"room",
+				"roomID"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"ac",
+				"accent-color"
+			],
+			[
+				"ine",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"obje",
+				"object-fit\tproperty"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frontend/public/index.html",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#Import the random module for randomly setting the treasure position\nimport random\nimport os\n\ndef quitGame():\n\tpass\n\t\ndef printName():\n\t#Print a raw multi line string with an ascii art piece\n\tprint(r\"\"\"\n  ___ ___ _  _ ___                      \n | __|_ _| \\| |   \\                     \n | _| | || .` | |) |                    \n |_| |___|_|\\_|___/                     \n  _____ _  _ ___                        \n |_   _| || | __|                       \n   | | | __ | _|                        \n   |_| |_||_|___|                       \n  _____ ___ ___   _   ___ _   _ ___ ___ \n |_   _| _ \\ __| /_\\ / __| | | | _ \\ __|\n   | | |   / _| / _ \\\\__ \\ |_| |   / _| \n   |_| |_|_\\___/_/ \\_\\___/\\___/|_|_\\___|\n\t\"\"\")\n\t\ndef printFound():\n\t#Print a raw multi line string with an ascii art piece\n\tprint(r\"\"\"\n _____ ___ ___   _   ___ _   _ ___ ___  \n|_   _| _ \\ __| /_\\ / __| | | | _ \\ __| \n  | | |   / _| / _ \\\\__ \\ |_| |   / _|  \n  |_| |_|_\\___/_/ \\_\\___/\\___/|_|_\\___| \n ___ ___  _   _ _  _ ___                \n| __/ _ \\| | | | \\| |   \\               \n| _| (_) | |_| | .` | |) |              \n|_| \\___/ \\___/|_|\\_|___/               \n\t\"\"\")\n\ndef clearScreen():\n\t#Print enough lines to push it down to the bottom (would use os module clear, but it doesnt work on repl.it)\n\tprint(\"\\n\"*200)\n\ndef displayBoard(dBoard, excludeWinPos):\n\t#Check if the board being displayed is excluding or including the win position (mostly for testing purposes)\n\tif excludeWinPos:\n\t\t#Print out a board generated at the same size as the real one, and store it as a temporary board, this allows us to remove the 1 in it\n\t\ttempBoard = []\n\t\tfor i in range(len(dBoard)):\n\t\t\ttempbuffer = []\n\t\t\tfor j in range(len(dBoard[i])):\n\t\t\t\ttempbuffer.append(dBoard[i][j] if dBoard[i][j] != \"1\" else \"0\")\n\t\t\ttempBoard.append(tempbuffer)\n\t\tdBoard = tempBoard\n\t\n\t#Generate the top string for the numbers for the displayed board\n\ttop = \"   \"\n\tfor i in range(len(dBoard[0])):\n\t\ttop += \" %s  \" % (str(i+1))\n\tprint(top)\n\t\n\t#Prints the top of the box\n\tprint(\"  +%s\" % (\"---+\"*len(dBoard[0])))\n\t\n\t#Prints each row with its values and the divider after the row\n\tfor x in range(len(dBoard)):\n\t\tline = \"|\"\n\t\tfor j in range(len(dBoard[x])):\n\t\t\tline += \"%s|\" % ((\" %s \" % dBoard[x][j]) if dBoard[x][j] != \"X\" else \"|||\")\n\t\tprint(\"%s %s\" % (chr(x+65), line))\n\t\tprint(\"  +%s\" % (\"---+\"*len(dBoard[0])))\n\n\t#Print out a singular line for spacing\n\tprint(\"\")\n\ndef createBoard():\n\twhile True:\n\t\t#Ask for input from user about the boards height\n\t\theight = input(\"Board Height: \")\n\t\t\n\t\t#Check if the value is numeric, if so change the string to an int, otherwise print out an error\n\t\tif height.isnumeric():\n\t\t\theight = int(height)\n\t\telse: \n\t\t\tclearScreen()\n\t\t\tprint(\"\\nInvalid Input!\\n\")\n\t\t\tcontinue\n\t\t\n\t\t#Check if the input exceeds the limits\n\t\tif height > 26 or height <= 0:\n\t\t\tclearScreen()\n\t\t\tprint(\"\\nInvalid Input!\\n\")\n\t\t\tcontinue\n\t\t\n\t\t#Ask for input from user about the boards width\n\t\twidth = input(\"Board Width:\")\n\t\t\n\t\t#Check if the value is numeric, if so change the string to an int, otherwise print out an error\n\t\tif width.isnumeric():\n\t\t\twidth = int(width)\n\t\telse: \n\t\t\tclearScreen()\n\t\t\tprint(\"\\nInvalid Input!\\n\")\n\t\t\tcontinue\n\t\t\n\t\t#Check if the input exceeds the limits\n\t\tif width > 9 or width <= 0:\n\t\t\tclearScreen()\n\t\t\tprint(\"\\nInvalid Input!\\n\")\n\t\t\tcontinue\n\t\tbreak\n\t\n\t#Define the board with the preffered width and height\n\ttempBoard = [[\"0\" for i in range(width)] for i in range(height)]\n\t\n\t#Loop through forever until the location is succesfully inputted\n\twhile True:\n\t\t#Ask the user for an input for the location of the treasure, they will leave it empty if they wish for it to be randomly chosen\n\t\tlocation = input(\"Treasure Location (Leave empty for random): \")\n\t\t\n\t\t#Check if location is empty, if so use random location\n\t\tif location == \"\":\n\t\t\ttempBoard[random.randrange(0,len(tempBoard))][random.randrange(0,len(tempBoard[0]))] = \"1\"\n\t\t\tbreak\n\t\telse:\n\t\t\t#Check if the input is less than two characters\n\t\t\tif len(location) <= 2:\n\t\t\t\t#Check if the input is an alpha followed by a numeric\n\t\t\t\tif location[0].isalpha() and location[1].isnumeric():\n\t\t\t\t\tlocAlpha = ord(location[0].upper())-64\n\t\t\t\t\tlocNum = int(location[1])\n\t\t\t\t\t\n\t\t\t\t\t#Check if the numbers are inside the range for the board\n\t\t\t\t\tif locAlpha > len(tempBoard) or locNum > len(tempBoard[0]) or locNum <= 0 or locAlpha <= 0:\n\t\t\t\t\t\t#Give the user output if they inputted something wrong and continue through the next iteration\n\t\t\t\t\t\tclearScreen()\n\t\t\t\t\t\tprint(\"\\nInvalid Input!\\n\")\n\t\t\t\t\t\tcontinue\n\t\t\t\t\t\n\t\t\t\t\t#Set the value on the board\n\t\t\t\t\ttempBoard[locAlpha-1][locNum-1] = \"1\"\n\t\t\t\t\tbreak\n\t\t\t\telse:\t\n\t\t\t\t\t#Give the user output if they inputted something wrong and continue through the next iteration\n\t\t\t\t\tclearScreen()\n\t\t\t\t\tprint(\"Invalid Input!\")\n\t\t\t\t\tcontinue\n\t\t\telse:\n\t\t\t\t#Give the user output if they inputted something wrong and continue through the next iteration\n\t\t\t\tclearScreen()\n\t\t\t\tprint(\"Invalid Input!\")\n\t\t\t\tcontinue\n\t\t\t\n\t#Return the board to be able to set it outside of the function in a variable\n\treturn tempBoard\n\ndef endScreen():\n\t#Print out the menu \n\tprint(\"-============ GAME OVER ============-\")\n\tprint(\"1. Menu\\n2. Quit\\n\")\n\t\n\t#Define an array with the names of the functions for each index\n\tmenuItems = [menu, quitGame]\n\t\n\t#Take an input from the user\n\tchoice = input(\"Selection: \")\n\t\n\t#Check if the choice is a digit and that it is less than or equal to one\n\tif choice.isdigit() and int(choice) <= len(menuItems) and int(choice) > 0:\n\t\t#Run the function corresponding to the input\n\t\tmenuItems[int(choice)-1]()\n\telse:\n\t\t#Clear the screen and re run the menu if it is an invalid input\n\t\tclearScreen()\n\t\tendScreen()\n\ndef menu():\n\tclearScreen()\n\tprintName()\n\t\n\t#Print out the menu \n\tprint(\"-============ MENU ============-\")\n\tprint(\"1. One Player\\n2. Quit\\n\")\n\t\n\t#Define an array with the names of the functions for each index\n\tmenuItems = [onePlayer, quitGame]\n\t\n\t#Take an input from the user\n\tchoice = input(\"Selection: \")\n\t\n\t#Check if the choice is a digit and that it is less than or equal to one\n\tif choice.isdigit() and int(choice) <= len(menuItems) and int(choice) > 0:\n\t\t#Run the function corresponding to the input\n\t\tmenuItems[int(choice)-1]()\n\telse:\n\t\t#Clear the screen and re run the menu if it is an invalid input\n\t\tclearScreen()\n\t\tmenu()\n\ndef onePlayer():\n\t#Create the board globally\n\tclearScreen()\n\tboard = createBoard()\n\t\n\t#Define the guess number and set it to 1\n\tguessNum = 1\n\t\n\t#Set the invalid input variable\n\tmessage = \"\"\n\t\n\twhile True:\n\t\tclearScreen()\n\t\t#Display the board after every turn\n\t\tdisplayBoard(board, True)\n\t\t\n\t\t#Print out the round number\n\t\tprint(\"Guess \" + str(guessNum) + message)\n\t\t\n\t\t#Set the input back to nothing\n\t\tmessage = \"\"\n\t\t\n\t\t#Take an input from the player\n\t\tguess = input(\"Enter a Location(A1 to \" + chr(len(board)+64) + str(len(board[0])) + \"): \")\n\t\t\n\t\t#Make sure the input is less than two characters\n\t\tif len(guess) != 2:\n\t\t\tmessage = \" - Input to Long!\"\n\t\t\tcontinue\n\t\t\n\t\t#Make sure the input is a alphabetical character followed by a numerical character\n\t\tif guess[0].isalpha() == False or guess[1].isnumeric() == False:\n\t\t\tmessage = \" - Input only Letters and Numbers!\"\n\t\t\tcontinue\n\t\t\n\t\t#Split up the guess into two sections, alphabetical and numerical. Then convert the alphabet character to a integer\n\t\talpha = ord(guess[0].upper())-64\n\t\tnum = int(guess[1])\n\t\t\n\t\t#Check if the inputs are larger than the length of the board, if so exit out of the loop and request new input\n\t\tif alpha > len(board) or num > len(board[0]) or alpha <= 0 or num <= 0:\n\t\t\tmessage = \" - Input Exceeds Board Size!\"\n\t\t\tcontinue\n\t\t\n\t\tif board[alpha-1][num-1]==\"X\":\n\t\t\tmessage = \" - Spot Already Taken!\"\n\t\t\tcontinue\n\t\n\t\t#Check if the location on the board entered is equal to a 1, if so print out a message and exit the loop\n\t\tif board[alpha-1][num-1]==\"1\":\n\t\t\tclearScreen()\n\t\t\tprintFound()\n\t\t\tprint(\"At \" + chr(alpha+64) + str(num) +\"!\\n\")\n\t\t\tendScreen()\n\t\telse:\n\t\t\t#Replace 0 on board with a X, to represent a \"hit\" or a spot taken\n\t\t\tboard[alpha-1][num-1] = \"X\"\n\t\t\t\n\t\t\t#Print out a message and loop through again if the spot is not populated by a 1\n\t\t\tprint(\"\\nGuess Again!\\n\")\n\t\t\n\t\t#Increase the round number\n\t\tguessNum += 1\n\n#Run the menu\nmenu()",
+			"file": "/Users/haydenwoods/Documents/Development/Python/main.py",
+			"file_size": 8199,
+			"file_write_time": 132013303093906340,
+			"settings":
+			{
+				"buffer_size": 8199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/src/styles/index.css",
+			"settings":
+			{
+				"buffer_size": 2508,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/src/components/index.js",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/src/components/text.js",
+			"settings":
+			{
+				"buffer_size": 2860,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/src/components/toolbar.js",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/src/app.js",
+			"settings":
+			{
+				"buffer_size": 775,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/src/index.js",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"Arithmetic"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/haydenwoods/Documents/Development/React/faces",
+		"/Users/haydenwoods/Documents/Development/React/faces/backend",
+		"/Users/haydenwoods/Documents/Development/React/faces/database",
+		"/Users/haydenwoods/Documents/Development/React/faces/frontend",
+		"/Users/haydenwoods/Documents/Development/React/faces/frontend/public",
+		"/Users/haydenwoods/Documents/Development/React/faces/frontend/src",
+		"/Users/haydenwoods/Documents/Development/React/faces/frontend/src/components",
+		"/Users/haydenwoods/Documents/Development/React/faces/frontend/src/styles"
+	],
+	"file_history":
+	[
+		"/Users/haydenwoods/Documents/Development/Websites/CloudComputing/index.html",
+		"/Users/haydenwoods/Documents/Development/React/faces/frontend/src/styles/reset.css",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/UserInterface.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/Tools.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/Submarine.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/FighterJet.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/ShipStorage.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/ShipManager.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/FileManager.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/FighterJet.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/Engine.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/UserInterface.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/Tools.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/Submarine.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/ShipStorage.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/ShipManager.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/FileManager.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/PseudoCode/Engine.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/outputData.csv",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P10/inputData.csv",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P05/ShapeCalculator.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P06/StudentFinder/StudentFinder.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/ShapeCalculator.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Fibonacci/FibonacciCalc.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Fibonacci/FibonacciCalc.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Factorial/Factorial.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Factorial/Factorial.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/ShapeCalculator.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Matrix/Matrix.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Fibonacci/Fibonacci.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Matrix/fileTwo",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Matrix/fileOne",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/Matrix/matrix.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P03/ShapeCalculator_testResults.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P01/ShapeCalculator_TestResults.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P01/shapeCalculator.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P01/shapeCalculator.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P02/DivisonChecker/DivisionChecker.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P02/DivisonChecker/DivisionChecker.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P02/shapeCalculator.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P02/shapeCalculator.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P02/GradeCalculator/GradeCalculator.java",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P02/GradeCalculator/GradeCalculator.txt",
+		"/Users/haydenwoods/Documents/Education/University/Semester One/COMP1001/Weekly/P02/BooleanExpressions.txt",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/frontend/src/components/Header.js",
+		"/Users/haydenwoods/.Trash/FAQPage.js",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/backend/server.js",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/backend/Dockerfile",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/backend/routes/faq.js",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/frontend/src/App.js",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/frontend/src/components/FAQPage.js",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/frontend/app.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/FlightPage.js",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/src/components/FAQPage.js",
+		"/Users/haydenwoods/Documents/Development/React/libanswers/package.json",
+		"/Users/haydenwoods/Desktop/How do I enrol my iPad into AirWatch_ - JSRACS Knowledge Base.html",
+		"/Users/haydenwoods/Desktop/How do I enrol my iPad into AirWatch_ - JSRACS Knowledge Base_files/la_print.css",
+		"/Users/haydenwoods/Documents/Development/NodeJS/CTF/node_modules/@fortawesome/fontawesome-free/svgs/brands/steam-square.svg",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/docker-compose.yml",
+		"/Users/haydenwoods/.shuttle.json",
+		"/Users/haydenwoods/Documents/Development/GeekTool/NextClass/main.py",
+		"/Users/haydenwoods/Documents/Development/GeekTool/NextClass/classes.txt",
+		"/Users/haydenwoods/Documents/Development/NodeJS/Countdown/public/js/client.js",
+		"/Users/haydenwoods/Documents/Development/NodeJS/Countdown/app.js",
+		"/Users/haydenwoods/Documents/Development/NodeJS/Countdown/public/css/styles.css",
+		"/Users/haydenwoods/Documents/Development/NodeJS/Countdown/client/index.html",
+		"/Users/haydenwoods/Documents/Development/NodeJS/Countdown/countdown.sublime-project",
+		"/Users/haydenwoods/Documents/Development/NodeJS/Countdown/mafia.sublime-project",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds-login/src/backend/.env.example",
+		"/Users/haydenwoods/Documents/Development/NodeJS/CTF/ctf.sublime-project",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/components/index.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/styles/index.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/app.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/backend/routes/camps.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds-login/backend/index.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/components/camppage.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/components/campsite.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/components/slideshow.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/components/header.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/styles/general.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/styles/login.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/index.js",
+		"/Users/haydenwoods/Documents/Development/GitHub/Campgrounds/src/frontend/src/components/login.js",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/Dockerfile",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/server.js",
+		"/Users/haydenwoods/Desktop/Campgrounds/docker-compose.yml",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/Dockerfile",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/public/index.html",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/package-lock.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/package.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/db/.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/backend/index.js",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/src/app.js",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/public/favicon.ico",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/public/manifest.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/src/frontend/semantic.json",
+		"/Users/haydenwoods/Desktop/Campgrounds/common.env",
+		"/Users/haydenwoods/Desktop/Campgrounds/Dockerfile",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/todos/model.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/todos/routes.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/index.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/server.js",
+		"/Users/haydenwoods/Desktop/nodejs-express-todoapp-non-docker/src/db.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Dockerfile",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/campground.sublime-project",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/styles/index.css",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/components/header.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/components/index.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/src/index.js",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/public/index.html",
+		"/Users/haydenwoods/Documents/Development/CampgroundProject/Frontend/campground/package.json",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/app.js",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/index.js",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/styles/index.css",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/public/index.html",
+		"/Users/haydenwoods/Documents/Development/React/portfolio-git/src/App.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/app.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/public/JS/main.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/public/CSS/styles.css",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/client/index.html",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/JS/main.js",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/CSS/styles.css",
+		"/Users/haydenwoods/Documents/Development/Websites/SideBar/index.html",
+		"/Users/haydenwoods/Documents/Development/Websites/BeforeAfterTest/CSS/styles.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/night.css",
+		"/Users/haydenwoods/Documents/Development/GitHub/spacex-web/src/components/FlightList.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frontend/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/haydenwoods/Documents/Development/Python/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "frontend/src/styles/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2073,
+								2073
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "frontend/src/components/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "frontend/src/components/text.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "frontend/src/components/toolbar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "frontend/src/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "frontend/src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "faces.sublime-project",
+	"replace":
+	{
+		"height": 79.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
